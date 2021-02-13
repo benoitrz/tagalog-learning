@@ -1,0 +1,23 @@
+body {
+    background-color: #FFFFFF;
+	color: #2F2F2F;
+    font-family: Palatino,Palatino Linotype,Palatino LT STD,Book Antiqua,Georgia,serif;
+    text-align: center;
+}
+.centeredDiv {
+	margin-top: 10%;
+}
+#source {
+	margin: 0;
+	font-size: 48px;
+}
+#translation {
+	margin-top: 50px;
+	font-size: 36px;
+}
+#bottomDiv {
+	margin-top: 10%;
+}
+.ph-flag {
+	width: 100px;
+}

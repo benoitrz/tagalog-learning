@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Tagalog Learning",
+    "description": "The title of the application, displayed in the web store."
+  },
+  "appDesc": {
+    "message": "Learn Tagalog one word at a time!", 
+    "description":"The description of the application, displayed in the web store."
+  }
+}
